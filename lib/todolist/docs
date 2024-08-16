@@ -1,0 +1,39 @@
+Todo Model
+    -   Title
+    -   Description
+    -   MarkAsCompleted
+    -   Status
+    -   Colour
+    -   DueDate
+    -   DateCreated
+    -   LastUpdated
+    -   DateStarted
+    -   DateCompleted
+    -   GroupName
+    *   Create
+    *   Update
+    *   Delete
+    *   Read All
+    *   Search Todo
+    
+
+Notification
+    -   Title
+    -   Content
+    -   DateTime
+    *   SetReminder
+    *   Alert Reminder
+    *   Clear Reminder
+
+
+Report
+    -   Generate Report
+    -   Generate Time Tracker
+
+Database
+
+
+Trash
+    -   Id
+    -   DateAdded
+    -   TodoModel
